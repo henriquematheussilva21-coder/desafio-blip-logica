@@ -30,7 +30,7 @@ Maior ou igual a 10.001	Radiante
 
 Clone o repositório:
 
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/henriquematheussilva21-coder/desafio-blip-logica.git
 
 
 Execute o arquivo JavaScript:
@@ -39,4 +39,5 @@ node index.js
 
 ✅ Exemplo de Saída
 O Herói de nome henrique.matheus está no nível de Ouro
+
 
