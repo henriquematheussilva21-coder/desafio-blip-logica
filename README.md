@@ -1,6 +1,6 @@
 🦸 Classificador de Nível de Herói
 
-Projeto simples em JavaScript que classifica o nível de um herói com base na quantidade de experiência (XP), utilizando variáveis, operadores e estruturas condicionais.
+Projeto simples em JavaScript para o Desafio de Projeto proposto pelo Bootcamp da Blip com a DIO que classifica o nível de um herói com base na quantidade de experiência (XP), utilizando variáveis, operadores e estruturas condicionais.
 
 🎯 Objetivo
 
@@ -39,3 +39,4 @@ node index.js
 
 ✅ Exemplo de Saída
 O Herói de nome henrique.matheus está no nível de Ouro
+
